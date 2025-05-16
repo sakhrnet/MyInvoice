@@ -1,7 +1,7 @@
 # invoice_app
 
 A new Flutter project.
-
+Flutter invoice application, create a PDF invoice with a special header, JPG designed in A4 size
 ## Getting Started
 
 This project is a starting point for a Flutter application.
